@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin-top: 20px;
+    margin-left: 40px ;
+}
+
+h1{
+    font-size: 50px;
+    text-decoration: overline;
+}
+section{
+    margin-bottom: 20px;
+}
+p{
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+input{
+    margin-bottom: 13px;
+    padding: 8px;
+    
+}
+header p{
+    margin-top: 10px;
+}
+#submit{
+    padding: 2px;
+    border: none;
+}
